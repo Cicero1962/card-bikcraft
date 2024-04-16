@@ -49,10 +49,11 @@ img {
   color: black;
   font-weight: 600;
   font-size: 1.1rem;
+  border: 2px solid white;
 }
 
 .menu_header a:hover {
-  border: 1px solid #c92213;
+  border: 2px solid #c92213;
 }
 
 .main_box {
@@ -144,12 +145,12 @@ img {
   gap: 10px 20px;
   padding: 10px;
   transition: all 0.2s ease-in-out;
-  border-left: 0.2rem solid transparent;
+  border-left: 3px solid transparent;
 }
 
 
 .itens_card:hover {
-  border-left: 4px solid #ee2211;
+  border-left: 3px solid #ee2211;
 }
 
 
